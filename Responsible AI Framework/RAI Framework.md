@@ -1,4 +1,5 @@
 Overview 
+
 This document contains Responsible AI Framework, a comprehensive governance, risk, and oversight model designed to guide organisations in the safe, ethical, and compliant adoption of AI systems.
 This framework integrates global standards such as:
 •	NIST AI RMF
