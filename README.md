@@ -1,29 +1,46 @@
 #Enterprise Grade Responsible AI Governance Portfolio by Sai Asritha Yaddala
 
 A comprehensive, end to end Responsible AI & AI Governance portfolio demonstrating enterprise-grade frameworks, controls, risk management, documentation, and operating models.
+
 This repository includes 8 full AI Governance projects, each built to match industry standards used by leading technology & financial institutions.
+
 Each project includes:
+
 •	Executive summaries
+
 •	Detailed documentation
+
 •	PPT decks
+
 •	Excel templates
+
 •	Governance controls
+
 •	Risk workflows
+
 •	Security mappings (MITRE ATLAS)
+
 •	Trustworthy AI principles
+
 •	RACI charts
+
 •	Approval flows
+
 •	Monitoring structures
 
 Projects Included:
 
-1.	Responsible AI Framework 
+1.	Responsible AI Framework
+   
 A complete organisational RAI Framework built on:
+
 •	ISO/IEC 42001 (AI Management System)
 •	NIST AI RMF
 •	OECD Trustworthy AI Principles
 •	EU AI Act alignment
+
 Includes:
+
 •	RAI Pillars
 •	Ethical principles
 •	Governance structure
@@ -31,8 +48,10 @@ Includes:
 •	Compliance alignment
 •	Lifecycle governance (end-to-end)
 
-2.	AI Risk Register + Heatmap Dashboard 
+2.	AI Risk Register + Heatmap Dashboard
+   
 A full enterprise risk register for AI systems.
+
 Includes:
 •	Impact × Likelihood × Detectability model
 •	Red–Amber–Green (RAG) scoring
@@ -42,8 +61,10 @@ Includes:
 •	Residual risk scoring
 •	Risk owners & mitigation plans
 
-3.	AI Governance Operating Model 
+3.	AI Governance Operating Model
+   
 Defines how an organisation governs all AI systems.
+
 Includes:
 •	Governance hierarchy
 •	AI Governance Board
@@ -55,8 +76,10 @@ Includes:
 •	Documentation requirements
 •	Governance cadence
 
-4.	 AI Documentation Pack 
+4.	 AI Documentation Pack
+   
 A complete set of 8 enterprise AI governance templates:
+
 1.	Model Card 
 2.	Data Card
 3.	AI Decision Log
@@ -66,8 +89,10 @@ A complete set of 8 enterprise AI governance templates:
 7.	AI Audit Log
 8.	MITRE ATLAS Threat Assessment Template
 
-5.	AI Controls Catalogue 
+5.	AI Controls Catalogue
+   
 A library of governance, risk, security, fairness, and monitoring controls, including:
+
 •	Data controls
 •	Model controls
 •	Fairness controls
@@ -78,8 +103,10 @@ A library of governance, risk, security, fairness, and monitoring controls, incl
 •	Monitoring & audit controls
 •	Policy & compliance controls
 
-6.	Trustworthy AI Guidelines 
+6.	Trustworthy AI Guidelines
+   
 A crisp, executive-level guide covering 12 Trustworthy AI principles:
+
 •	Accountability
 •	Transparency
 •	Fairness
@@ -93,8 +120,10 @@ A crisp, executive-level guide covering 12 Trustworthy AI principles:
 •	Documentation
 •	Compliance
 
-7.	RAI Use Case Intake & Approval Workflow 
+7.	RAI Use Case Intake & Approval Workflow
+   
 A full stack enterprise workflow for approving AI use cases.
+
 Includes:
 •	7-stage approval process
 •	Roles & responsibilities
@@ -104,8 +133,10 @@ Includes:
 •	Lifecycle gates
 •	Required documents at each stage
 
-8.	AI Controls Catalogue 
+8.	AI Controls Catalogue
+   
 A structured collection of controls spanning:
+
 •	Data governance
 •	Model fairness
 •	Security 
